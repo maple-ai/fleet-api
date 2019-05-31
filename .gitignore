@@ -1,0 +1,4 @@
+config.json
+config.production.json
+.vscode
+/config/bindata.go
